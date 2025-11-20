@@ -1,0 +1,11 @@
+var c = require('./index')  //import kr re export kra tha usko
+console.log(c.add(3,7))
+console.log(c.sub(3,7))
+console.log(c.mul(3,7))
+console.log(c.div(3,7))
+console.log(c.rem(3,7))
+console.log(c.pow(3,7))
+console.log(c.fac(4))
+var d= require('dhiraj123')
+console.log(d.add(9,6))
+console.log(d.sub(9,6))
