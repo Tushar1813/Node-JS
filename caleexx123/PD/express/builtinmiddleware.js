@@ -18,4 +18,4 @@ obj.post('/postdetails',(req,res)=>{
 })
 obj.listen(3000,()=>{
     console.log("Server Running")
-})
+}) 
